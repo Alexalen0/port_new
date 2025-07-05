@@ -56,7 +56,7 @@ const Experience = () => {
   const education = [
     {
       degree: "Bachelor of Technology in Computer Science",
-      institution: "Indian Institute of Technology",
+      institution: "Bharati Vidyapeeth's College of Engineering",
       location: "Delhi, India",
       period: "2018 - 2022",
       grade: "CGPA: 8.35/10",
